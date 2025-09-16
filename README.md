@@ -7,7 +7,7 @@ I’m particularly fond of **Arch Linux**, and I enjoy building **open-source to
 ---
 
 ## 🌟 Focus Areas
-<p align="center">
+
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
   ![AI](https://img.shields.io/badge/AI-6F42C1?style=for-the-badge)
@@ -16,7 +16,7 @@ I’m particularly fond of **Arch Linux**, and I enjoy building **open-source to
   ![Open Source](https://img.shields.io/badge/Open%20Source-00ADEF?style=for-the-badge)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-</p>
+
 ---
 
 ## 📊 GitHub Stats
