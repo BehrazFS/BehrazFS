@@ -8,7 +8,7 @@ I’m particularly fond of **Arch Linux**, and I enjoy building **open-source to
 
 ## 🌟 Focus Areas
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=black&style=for-the-badge)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
   ![AI](https://img.shields.io/badge/AI-6F42C1?style=for-the-badge)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
