@@ -10,8 +10,8 @@ I’m particularly fond of **Arch Linux**, and I enjoy building **open-source to
 
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=FFFFFF&style=for-the-badge)
-  ![AI](https://img.shields.io/badge/AI-6F42C1?logo=brain&logoColor=FFFFFF&style=for-the-badge)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000000&style=for-the-badge)
+  ![AI](https://img.shields.io/badge/AI-6F42C1?logo=robot&logoColor=FFFFFF&style=for-the-badge)
+  ![Linux](https://img.shields.io/badge/Linux-000000?logo=tux&logoColor=FFFFFF&style=for-the-badge)
   ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=FFFFFF&style=for-the-badge)
   ![Open Source](https://img.shields.io/badge/Open%20Source-00ADEF?logo=github&logoColor=FFFFFF&style=for-the-badge)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFFFFF&style=for-the-badge)
