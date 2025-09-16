@@ -18,7 +18,7 @@ I’m particularly fond of **Arch Linux**, and I enjoy building **open-source to
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=FFFFFF&style=for-the-badge)
   ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=FFFFFF&style=for-the-badge)
   ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=FFFFFF&style=for-the-badge)
-  ![VHDL](https://img.shields.io/badge/VHDL-FF8C00?logo=electron&logoColor=3776AB&style=for-the-badge)
+  ![VHDL](https://img.shields.io/badge/VHDL-FF8C00?style=for-the-badge)
 ---
 
 ## 📊 GitHub Stats
