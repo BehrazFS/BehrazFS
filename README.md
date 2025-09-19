@@ -23,7 +23,7 @@ I’m particularly fond of **Arch Linux**, and I enjoy building **open-source to
 
 ## 📊 GitHub Stats
 ![Behraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BehrazFS&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BehrazFS&layout=compact&theme=tokyonight)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BehrazFS&layout=compact&theme=tokyonight)-->
 ![GitHub Streak](https://streak-stats.demolab.com?user=BehrazFS&theme=tokyonight&hide_border=true)
 
 
